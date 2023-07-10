@@ -34,8 +34,8 @@ class CustomDiscreteAllocation(DiscreteAllocation):
 
         # Add additional constraints to ensure certain elements of x are greater than their minimum values
         if self.min_value_constraints is not None:
-            for ticker, min_value in self.min_value_constraints.items():
-                constraints.append(x[ticker] >= min_value)
+            for position_ticker, min_value in self.min_value_constraints.items():
+                constraints.append(x[position_ticker] >= min_value)
 
         objective = cp.sum(u) + r
 
