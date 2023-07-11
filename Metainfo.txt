@@ -1,4 +1,4 @@
-Name of QuantLet: Portfolio Management using Markowitz
+Name of QuantLet: PFM_using_Markowitz
 
 Published in: DEDA Class SoSe2023
 
