@@ -8,9 +8,9 @@ Name of QuantLet: RedditWSBSentiment
 
 Published in: DEDA Class SoSe2023
 
-Description: Cross Correlation Analysis of Sentiment from Posts and Comments in the subreddit r/wallstreetbets and GME and AMC stocks during the Gamestop short squeeze of 2021.
+Description: Optimizing investment portfolios by analyzing the risk and return characteristics of different assets. By employing the Markowitz model, we provide a quantitative approach to portfolio diversification and asset allocation, aiming to maximize returns while minimizing risk.
 
-Keywords: sentiment analysis, nlp, financial, volatility, return, asset, web scrapping, social media, reddit
+Keywords: Portfolio management, Markowitz model, asset allocation, diversification, risk-return analysis, investment optimization
 
 Author: Ruchir Dhiman, Bhavya Goyal, Jonas Saleh
 
